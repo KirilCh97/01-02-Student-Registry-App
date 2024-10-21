@@ -17,5 +17,5 @@ jobs:
       with:
         node-version: 20
     - name: Intall Dependences
-    - run: npm install
+      run: npm install
 
